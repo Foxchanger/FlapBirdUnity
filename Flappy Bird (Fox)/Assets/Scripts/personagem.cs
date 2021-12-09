@@ -22,7 +22,8 @@ public class personagem : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        
+        if (Input.GetButtonDown("Fire1") || Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Moved)
         {
 
             if (!jogando ) 
