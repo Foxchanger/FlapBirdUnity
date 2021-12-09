@@ -9,7 +9,10 @@ public class personagem : MonoBehaviour
 {
     public float forcaImpulso;
     public static bool jogando;
-        Rigidbody2D rb;
+    public Rigidbody2D rb;
+
+
+
     // Use this for initialization
     void Start()
     {
