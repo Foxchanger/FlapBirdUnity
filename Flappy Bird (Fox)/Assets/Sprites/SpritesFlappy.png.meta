@@ -267,6 +267,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2056,6 +2057,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      SpritesFlappy_37: 21300074
+      SpritesFlappy_68: 21300136
+      SpritesFlappy_55: 21300110
+      SpritesFlappy_77: 21300154
+      SpritesFlappy_78: 21300156
+      SpritesFlappy_41: 21300082
+      SpritesFlappy_50: 21300100
+      SpritesFlappy_60: 21300120
+      SpritesFlappy_52: 21300104
+      SpritesFlappy_66: 21300132
+      SpritesFlappy_13: 21300026
+      SpritesFlappy_35: 21300070
+      SpritesFlappy_70: 21300140
+      SpritesFlappy_23: 21300046
+      SpritesFlappy_51: 21300102
+      SpritesFlappy_38: 21300076
+      SpritesFlappy_31: 21300062
+      SpritesFlappy_74: 21300148
+      SpritesFlappy_79: 21300158
+      SpritesFlappy_43: 21300086
+      SpritesFlappy_26: 21300052
+      SpritesFlappy_11: 21300022
+      SpritesFlappy_27: 21300054
+      SpritesFlappy_8: 21300016
+      SpritesFlappy_5: 21300010
+      SpritesFlappy_19: 21300038
+      SpritesFlappy_25: 21300050
+      SpritesFlappy_9: 21300018
+      SpritesFlappy_34: 21300068
+      SpritesFlappy_10: 21300020
+      SpritesFlappy_65: 21300130
+      SpritesFlappy_7: 21300014
+      SpritesFlappy_14: 21300028
+      SpritesFlappy_15: 21300030
+      SpritesFlappy_24: 21300048
+      SpritesFlappy_45: 21300090
+      SpritesFlappy_49: 21300098
+      SpritesFlappy_53: 21300106
+      SpritesFlappy_76: 21300152
+      SpritesFlappy_54: 21300108
+      SpritesFlappy_62: 21300124
+      SpritesFlappy_1: 21300002
+      SpritesFlappy_3: 21300006
+      SpritesFlappy_73: 21300146
+      SpritesFlappy_18: 21300036
+      SpritesFlappy_67: 21300134
+      SpritesFlappy_32: 21300064
+      SpritesFlappy_46: 21300092
+      SpritesFlappy_42: 21300084
+      SpritesFlappy_4: 21300008
+      SpritesFlappy_61: 21300122
+      SpritesFlappy_0: 21300000
+      SpritesFlappy_6: 21300012
+      SpritesFlappy_48: 21300096
+      SpritesFlappy_47: 21300094
+      SpritesFlappy_12: 21300024
+      SpritesFlappy_17: 21300034
+      SpritesFlappy_20: 21300040
+      SpritesFlappy_29: 21300058
+      SpritesFlappy_64: 21300128
+      SpritesFlappy_16: 21300032
+      SpritesFlappy_44: 21300088
+      SpritesFlappy_57: 21300114
+      SpritesFlappy_72: 21300144
+      SpritesFlappy_63: 21300126
+      SpritesFlappy_69: 21300138
+      SpritesFlappy_71: 21300142
+      SpritesFlappy_39: 21300078
+      SpritesFlappy_21: 21300042
+      SpritesFlappy_2: 21300004
+      SpritesFlappy_33: 21300066
+      SpritesFlappy_75: 21300150
+      SpritesFlappy_36: 21300072
+      SpritesFlappy_59: 21300118
+      SpritesFlappy_56: 21300112
+      SpritesFlappy_22: 21300044
+      SpritesFlappy_80: 21300160
+      SpritesFlappy_30: 21300060
+      SpritesFlappy_58: 21300116
+      SpritesFlappy_28: 21300056
+      SpritesFlappy_40: 21300080
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
